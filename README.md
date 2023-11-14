@@ -1,4 +1,6 @@
-### Hi there 👋
+### 안녕하세요! Hello! 👋
+
+# 언젠간 꾸밀 예정입니다! 아마...도...?
 
 <!--
 **kelvin926/kelvin926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

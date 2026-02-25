@@ -9,9 +9,9 @@ Autonomous Driving | LiDAR Perception | Mobile Robotics
 
 ## About
 
-- M.S. student, Department of Future Mobility, Korea University (2025 - Present)
+- M.S. student, Department of Mobility Science and Engineering, Korea University (2025 - Present)
 - Researcher, Korea University Field Robot Lab (2022 - Present)
-- Focus: robotics software, perception, autonomous systems
+- Focus: robotics software, perception, autonomous systems, Reinforce Learning
 - Some course-related repositories are private during TA periods
 
 ## Quick Highlights

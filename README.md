@@ -14,13 +14,6 @@ Autonomous Driving | LiDAR Perception | Mobile Robotics
 - Focus: robotics software, perception, autonomous systems, Reinforce Learning
 - Some course-related repositories are private during TA periods
 
-## Quick Highlights
-
-- 10 undergraduate projects
-- 6 competition awards (including multiple 1st-place results)
-- 8 papers and conference presentations
-- 43 public repositories (Python-focused robotics projects)
-
 ## Tech Stack
 
 ### Robotics & Middleware

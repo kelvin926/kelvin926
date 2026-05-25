@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:102642,55:2d628f,100:ac6332&text=Hyunseo%20Jang&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Robotics%20Software%20Engineer%20%7C%20Field%20Robot%20Lab&descAlignY=58&descSize=17)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/profile.jpg" width="170" alt="Hyunseo Jang profile photo">
-</p>
-
 <h3 align="center">Simulation-first robot design, learning-based control, and field robot integration</h3>
 
 <p align="center">
@@ -98,13 +94,6 @@ I am an M.S. candidate in Mobility Science and Engineering at Korea University a
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
 </details>
-
-## Activity
-
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kelvin926&show_icons=true&hide_border=true&title_color=102642&text_color=405064&icon_color=ac6332" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin926&layout=compact&hide_border=true&title_color=102642&text_color=405064" alt="Top languages">
-</p>
 
 ---
 

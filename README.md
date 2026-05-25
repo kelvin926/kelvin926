@@ -14,6 +14,8 @@
   <img src="https://img.shields.io/badge/Autoware-0E77D0?style=flat-square" alt="Autoware">
   <img src="https://img.shields.io/badge/Isaac%20Lab-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Isaac Lab">
   <img src="https://img.shields.io/badge/LiDAR-4A5568?style=flat-square" alt="LiDAR">
+  <img src="https://img.shields.io/badge/Velodyne%20VLP--16-4A5568?style=flat-square" alt="Velodyne VLP-16">
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA">
   <img src="https://img.shields.io/badge/Reinforcement%20Learning-8E44AD?style=flat-square" alt="Reinforcement Learning">
 </p>
 
@@ -35,7 +37,7 @@ I am an M.S. candidate in Mobility Science and Engineering at Korea University a
     </td>
     <td width="33%" valign="top">
       <b>Platforms</b><br>
-      Isaac Sim/Lab, ROS2, Autoware, Unitree Go2W, OpenArm, indoor AMR platforms
+      Isaac Sim/Lab, ROS2 Humble, Autoware, Unitree Go2W, OpenArm, Ranger Mini v2, indoor AMR platforms
     </td>
   </tr>
 </table>
@@ -86,7 +88,10 @@ I am an M.S. candidate in Mobility Science and Engineering at Korea University a
       <b>Robot Software</b><br><br>
       <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS">
       <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS2">
+      <img src="https://img.shields.io/badge/ROS2%20Humble-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS2 Humble">
       <img src="https://img.shields.io/badge/Autoware-0E77D0?style=flat-square" alt="Autoware">
+      <img src="https://img.shields.io/badge/Lanelet2-4A5568?style=flat-square&logo=openstreetmap&logoColor=white" alt="Lanelet2">
+      <img src="https://img.shields.io/badge/CAN-4A5568?style=flat-square" alt="CAN">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
       <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
@@ -98,6 +103,8 @@ I am an M.S. candidate in Mobility Science and Engineering at Korea University a
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
       <img src="https://img.shields.io/badge/RSL--RL-8E44AD?style=flat-square" alt="RSL-RL">
       <img src="https://img.shields.io/badge/Gymnasium-0081A5?style=flat-square" alt="Gymnasium">
+      <img src="https://img.shields.io/badge/Bayesian%20Optimization-ac6332?style=flat-square" alt="Bayesian Optimization">
+      <img src="https://img.shields.io/badge/MORAI-0F172A?style=flat-square" alt="MORAI">
     </td>
   </tr>
   <tr>
@@ -105,8 +112,13 @@ I am an M.S. candidate in Mobility Science and Engineering at Korea University a
       <b>Perception and Data</b><br><br>
       <img src="https://img.shields.io/badge/LiDAR-4A5568?style=flat-square" alt="LiDAR">
       <img src="https://img.shields.io/badge/Point%20Cloud-4A5568?style=flat-square" alt="Point Cloud">
+      <img src="https://img.shields.io/badge/Velodyne%20VLP--16-4A5568?style=flat-square" alt="Velodyne VLP-16">
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
       <img src="https://img.shields.io/badge/Open3D-0A7CC2?style=flat-square" alt="Open3D">
+      <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLO">
+      <img src="https://img.shields.io/badge/DBSCAN-4A5568?style=flat-square" alt="DBSCAN">
+      <img src="https://img.shields.io/badge/Kalman%20Filter-4A5568?style=flat-square" alt="Kalman Filter">
+      <img src="https://img.shields.io/badge/SemanticKITTI-4A5568?style=flat-square" alt="SemanticKITTI">
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
     </td>
     <td width="50%" valign="top">
@@ -114,8 +126,39 @@ I am an M.S. candidate in Mobility Science and Engineering at Korea University a
       <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
       <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake">
+      <img src="https://img.shields.io/badge/Makefile-064F8C?style=flat-square" alt="Makefile">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/CoppeliaSim-0B3D91?style=flat-square" alt="CoppeliaSim">
+      <img src="https://img.shields.io/badge/Ansys-FFB71B?style=flat-square" alt="Ansys">
+      <img src="https://img.shields.io/badge/CAD-4A5568?style=flat-square" alt="CAD">
+    </td>
+  </tr>
+</table>
+
+## Additional Experience
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Public repo languages</b><br><br>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#">
+      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
+      <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" alt="MATLAB">
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+    </td>
+    <td width="50%" valign="top">
+      <b>Web, security, and embedded</b><br><br>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white" alt="OpenSSL">
+      <img src="https://img.shields.io/badge/AES-6E56CF?style=flat-square" alt="AES">
+      <img src="https://img.shields.io/badge/ChaCha20-6E56CF?style=flat-square" alt="ChaCha20">
+      <img src="https://img.shields.io/badge/TLS-6E56CF?style=flat-square&logo=letsencrypt&logoColor=white" alt="TLS">
+      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
+      <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
     </td>
   </tr>
 </table>

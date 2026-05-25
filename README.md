@@ -80,17 +80,28 @@ I am an M.S. candidate in Mobility Science and Engineering at Korea University a
 | 2025 | Published | **Efficient Graph-Based Multi-Story Path Planning with Optimized Elevator Selection for Indoor Delivery Robots**, Electronics. [DOI](https://doi.org/10.3390/electronics14050982) |
 | 2025 | Published | **Time-Interval-Based Collision Detection for 4WIS Mobile Robots in Human-Shared Indoor Environments**, Sensors. [DOI](https://doi.org/10.3390/s25030890) |
 
+## Conference Presentations
+
+| Year | Venue | Presentation |
+| --- | --- | --- |
+| 2025 | IEMEK Fall Conference | **Study on Deriving a TDP for Autonomous Road-Sweeping Vehicles** |
+| 2024 | IEEE ICCE-Asia | **Human Trajectory Prediction Algorithm** |
+| 2024 | KICS Summer Conference | **A Study on a DQN Reinforcement Learning-Based Optimal Loading Algorithm for Hub Logistics Centers in Fulfillment and Last-Mile Delivery** |
+| 2024 | IEMEK Spring Conference | **A Study on Fail-Safety of Autonomous Road-Sweeping Vehicles** |
+| 2024 | KSII Spring Conference | **PointCloud-Based Object Detection Method for Safe Autonomous Navigation of Robots in Narrow Indoor Environments** |
+| 2023 | KICS Fall Conference | **A Study on Lightweight LiDAR Perception Modules for Durability and Power Efficiency in Embedded Systems** |
+| 2023 | ISIPS / MASR 2023 | **Optimal Logistics Distribution Algorithm for Autonomous Delivery for Local Logistics Hub System** |
+
 ## Toolbox
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>Robot Software</b><br><br>
+      <b>Robot Software and Integration</b><br><br>
       <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS">
       <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS2">
       <img src="https://img.shields.io/badge/ROS2%20Humble-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS2 Humble">
       <img src="https://img.shields.io/badge/Autoware-0E77D0?style=flat-square" alt="Autoware">
-      <img src="https://img.shields.io/badge/Lanelet2-4A5568?style=flat-square&logo=openstreetmap&logoColor=white" alt="Lanelet2">
       <img src="https://img.shields.io/badge/CAN-4A5568?style=flat-square" alt="CAN">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
       <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
@@ -105,11 +116,12 @@ I am an M.S. candidate in Mobility Science and Engineering at Korea University a
       <img src="https://img.shields.io/badge/Gymnasium-0081A5?style=flat-square" alt="Gymnasium">
       <img src="https://img.shields.io/badge/Bayesian%20Optimization-ac6332?style=flat-square" alt="Bayesian Optimization">
       <img src="https://img.shields.io/badge/MORAI-0F172A?style=flat-square" alt="MORAI">
+      <img src="https://img.shields.io/badge/CoppeliaSim-0B3D91?style=flat-square" alt="CoppeliaSim">
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>Perception and Data</b><br><br>
+      <b>Perception and Navigation</b><br><br>
       <img src="https://img.shields.io/badge/LiDAR-4A5568?style=flat-square" alt="LiDAR">
       <img src="https://img.shields.io/badge/Point%20Cloud-4A5568?style=flat-square" alt="Point Cloud">
       <img src="https://img.shields.io/badge/Velodyne%20VLP--16-4A5568?style=flat-square" alt="Velodyne VLP-16">
@@ -119,16 +131,16 @@ I am an M.S. candidate in Mobility Science and Engineering at Korea University a
       <img src="https://img.shields.io/badge/DBSCAN-4A5568?style=flat-square" alt="DBSCAN">
       <img src="https://img.shields.io/badge/Kalman%20Filter-4A5568?style=flat-square" alt="Kalman Filter">
       <img src="https://img.shields.io/badge/SemanticKITTI-4A5568?style=flat-square" alt="SemanticKITTI">
+      <img src="https://img.shields.io/badge/Lanelet2-4A5568?style=flat-square&logo=openstreetmap&logoColor=white" alt="Lanelet2">
       <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
     </td>
     <td width="50%" valign="top">
-      <b>Engineering Tools</b><br><br>
+      <b>Engineering and Validation</b><br><br>
       <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA">
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
       <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake">
       <img src="https://img.shields.io/badge/Makefile-064F8C?style=flat-square" alt="Makefile">
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/CoppeliaSim-0B3D91?style=flat-square" alt="CoppeliaSim">
       <img src="https://img.shields.io/badge/Ansys-FFB71B?style=flat-square" alt="Ansys">
       <img src="https://img.shields.io/badge/CAD-4A5568?style=flat-square" alt="CAD">
     </td>

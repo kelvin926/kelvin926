@@ -1,35 +1,113 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Jang%20HyunSeo&fontColor=ffffff&fontSize=48&animation=fadeIn&fontAlignY=38)
+![header](https://capsule-render.vercel.app/api?type=waving&height=230&color=0:102642,55:2d628f,100:ac6332&text=Hyunseo%20Jang&fontColor=ffffff&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Robotics%20Software%20Engineer%20%7C%20Field%20Robot%20Lab&descAlignY=58&descSize=17)
 
-## Jang HyunSeo
-Robotics Software Engineer  
-Autonomous Driving | LiDAR Perception | Mobile Robotics
+<p align="center">
+  <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/profile.jpg" width="170" alt="Hyunseo Jang profile photo">
+</p>
 
-[![Website](https://img.shields.io/badge/Website-home.hyunseo.kr-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://home.hyunseo.kr)
-[![Mail](https://img.shields.io/badge/Mail-kelvin926%40korea.ac.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kelvin926@korea.ac.kr)
+<h3 align="center">Simulation-first robot design, learning-based control, and field robot integration</h3>
+
+<p align="center">
+  <a href="https://home.hyunseo.kr"><img src="https://img.shields.io/badge/Website-home.hyunseo.kr-2d628f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
+  <a href="mailto:kelvin926@korea.ac.kr"><img src="https://img.shields.io/badge/Mail-kelvin926%40korea.ac.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://scholar.google.com/citations?user=dEmD_rQAAAAJ"><img src="https://img.shields.io/badge/Scholar-Google-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://orcid.org/0009-0007-1284-4330"><img src="https://img.shields.io/badge/ORCID-0009--0007--1284--4330-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
+</p>
 
 ## About
 
-- M.S. student, Department of Mobility Science and Engineering, Korea University (2025 - Present)
-- Researcher, Korea University Field Robot Lab (2022 - Present)
-- Focus: robotics software, perception, autonomous systems, Reinforce Learning
-- Some course-related repositories are private during TA periods
+I am an M.S. candidate in Mobility Science and Engineering at Korea University and a researcher at the Field Robot Lab. My work focuses on robotics software, simulation-driven validation, LiDAR perception, autonomous systems, and reinforcement learning for mobile robots.
 
-## Tech Stack
+| Research topics | Methods and platforms | Current systems |
+| --- | --- | --- |
+| Wheeled-legged robots, mobile manipulation, AMR systems, field integration | Isaac Sim/Lab, RSL-RL, Bayesian optimization, ROS2/Autoware, LiDAR perception | KALO wheeled-legged platform, CEBO stair-climbing wheel, lift-equipped mobile manipulator, indoor AMR integration |
 
-### Robotics & Middleware
-![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white) ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white) ![ROS Noetic](https://img.shields.io/badge/ROS_Noetic-22314E?style=flat-square&logo=ros&logoColor=white) ![ROS2 Humble](https://img.shields.io/badge/ROS2_Humble-22314E?style=flat-square&logo=ros&logoColor=white) ![Catkin](https://img.shields.io/badge/Catkin-22314E?style=flat-square&logo=ros&logoColor=white) ![Colcon](https://img.shields.io/badge/Colcon-22314E?style=flat-square&logo=ros&logoColor=white) ![RViz2](https://img.shields.io/badge/RViz2-22314E?style=flat-square&logo=ros&logoColor=white) ![ROS Bridge](https://img.shields.io/badge/ROSBridge-4A5568?style=flat-square&logo=ros&logoColor=white) ![Autoware AI](https://img.shields.io/badge/Autoware_AI-0E77D0?style=flat-square) ![Autoware Universe](https://img.shields.io/badge/Autoware_Universe-0E77D0?style=flat-square) ![SLAM](https://img.shields.io/badge/SLAM-4A5568?style=flat-square) ![Sensor Fusion](https://img.shields.io/badge/Sensor_Fusion-4A5568?style=flat-square) ![Object Detection](https://img.shields.io/badge/Object_Detection-4A5568?style=flat-square&logo=opencv&logoColor=white) ![Velodyne](https://img.shields.io/badge/Velodyne_LiDAR-4A5568?style=flat-square) ![Lanelet2](https://img.shields.io/badge/Lanelet2-4A5568?style=flat-square&logo=openstreetmap&logoColor=white) ![OpenArm](https://img.shields.io/badge/OpenArm-4A5568?style=flat-square)
+## Featured Work
 
-### Simulation & Platforms
-![MORAI](https://img.shields.io/badge/MORAI_Simulator-0F172A?style=flat-square) ![Gazebo](https://img.shields.io/badge/Gazebo-2B2B2B?style=flat-square) ![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-0B3D91?style=flat-square) ![WSL2](https://img.shields.io/badge/WSL2-0078D4?style=flat-square) ![Isaac Lab](https://img.shields.io/badge/Isaac_Lab-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white) ![NVIDIA Omniverse](https://img.shields.io/badge/NVIDIA_Omniverse-76B900?style=flat-square&logo=nvidia&logoColor=white) ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Ubuntu 20.04](https://img.shields.io/badge/Ubuntu-20.04-E95420.png?style=flat-square&logo=ubuntu&logoColor=white) ![Ubuntu 22.04](https://img.shields.io/badge/Ubuntu-22.04-E95420.png?style=flat-square&logo=ubuntu&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![ANSYS Mechanical](https://img.shields.io/badge/ANSYS-Mechanical-FFB71B.png?style=flat-square)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/projects/kalo_launch_single.jpg" alt="KALO wheeled-legged robot launch simulation">
+      <h3>KALO Loco-Manipulation</h3>
+      <p>Kangaroo-inspired arm-swing launch concept for a Unitree Go2W-OpenArm wheeled-legged platform, validated in Isaac Lab/RSL-RL.</p>
+      <sub><b>Tools:</b> Isaac Lab, RSL-RL, Unitree Go2W, OpenArm</sub>
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/projects/cebo_environment_single.jpg" alt="CEBO stair-climbing wheel simulation">
+      <h3>CEBO Wheel Design</h3>
+      <p>Clustering-enhanced Bayesian optimization for T-pedal wheel design of a stair-climbing robot.</p>
+      <sub><b>Tools:</b> Bayesian optimization, CoppeliaSim, Python</sub>
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/projects/lift_shelf_single.jpg" alt="Lift-equipped mobile manipulator shelf transfer">
+      <h3>Shelf Transfer Platform</h3>
+      <p>Lift-equipped mobile manipulator platform for shelf transfer in multi-level rack environments.</p>
+      <sub><b>Tools:</b> Isaac Lab, reinforcement learning, platform design</sub>
+    </td>
+  </tr>
+</table>
 
-### AI / Perception / Data
-![LiDAR](https://img.shields.io/badge/LiDAR-4A5568?style=flat-square) ![Point Cloud](https://img.shields.io/badge/Point_Cloud-4A5568?style=flat-square) ![PointNet++](https://img.shields.io/badge/PointNet%2B%2B-4A5568?style=flat-square) ![SemanticKITTI](https://img.shields.io/badge/SemanticKITTI-4A5568?style=flat-square) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square) ![Open3D](https://img.shields.io/badge/Open3D-0A7CC2?style=flat-square) ![PCL](https://img.shields.io/badge/PCL-0A7CC2?style=flat-square) ![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A5?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) ![PPO](https://img.shields.io/badge/PPO-RL-8E44AD?style=flat-square) ![RSL-RL](https://img.shields.io/badge/RSL--RL-8E44AD?style=flat-square) ![SKRL](https://img.shields.io/badge/SKRL-8E44AD?style=flat-square) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+## Publications and Research Output
 
-### Programming & Systems
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white) ![Makefile](https://img.shields.io/badge/Makefile-064F8C?style=flat-square) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white) ![Jetson](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
+- **KALO: Kangaroo-LocoManipulation for Early Launch Acceleration in a Wheel-Legged Robot**  
+  IEEE/ASME AIM 2026, accepted
+- **A Lift-Equipped Mobile Manipulator Platform for Shelf Transfer in Multi-Level Rack Environments**  
+  IEEE/ASME AIM 2026, accepted
+- **Clustering-enhanced Bayesian optimization (CEBO): A case study on T-pedal wheel design of a stair-climbing robot**  
+  Advanced Engineering Informatics, minor revision
+- **Efficient Graph-Based Multi-Story Path Planning with Optimized Elevator Selection for Indoor Delivery Robots**  
+  Electronics, 2025. [DOI](https://doi.org/10.3390/electronics14050982)
+- **Time-Interval-Based Collision Detection for 4WIS Mobile Robots in Human-Shared Indoor Environments**  
+  Sensors, 2025. [DOI](https://doi.org/10.3390/s25030890)
 
-### Web & CMS (Private Projects)
-![FTP/SFTP](https://img.shields.io/badge/FTP%2FSFTP-005A9C?style=flat-square&logo=filezilla&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+## Toolbox
 
-### Security & Network (Recent Repositories)
-![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white) ![Cryptography](https://img.shields.io/badge/Cryptography-6E56CF?style=flat-square&logo=openssl&logoColor=white) ![AES](https://img.shields.io/badge/AES-6E56CF?style=flat-square&logo=openssl&logoColor=white) ![ChaCha20](https://img.shields.io/badge/ChaCha20-6E56CF?style=flat-square&logo=openssl&logoColor=white) ![TLS](https://img.shields.io/badge/TLS-6E56CF?style=flat-square&logo=letsencrypt&logoColor=white) ![PyProj](https://img.shields.io/badge/PyProj-3A6EA5?style=flat-square&logo=python&logoColor=white) ![psutil](https://img.shields.io/badge/psutil-3A6EA5?style=flat-square&logo=python&logoColor=white)
+**Robot software and integration**  
+![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
+![Autoware](https://img.shields.io/badge/Autoware-0E77D0?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Simulation and learning**  
+![Isaac Lab](https://img.shields.io/badge/Isaac_Lab-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Isaac Sim](https://img.shields.io/badge/Isaac_Sim-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![RSL-RL](https://img.shields.io/badge/RSL--RL-8E44AD?style=flat-square)
+![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A5?style=flat-square)
+
+**Perception and data**  
+![LiDAR](https://img.shields.io/badge/LiDAR-4A5568?style=flat-square)
+![Point Cloud](https://img.shields.io/badge/Point_Cloud-4A5568?style=flat-square)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Open3D](https://img.shields.io/badge/Open3D-0A7CC2?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+<details>
+<summary><b>More tools</b></summary>
+<br>
+
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-2B2B2B?style=flat-square)
+![CoppeliaSim](https://img.shields.io/badge/CoppeliaSim-0B3D91?style=flat-square)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+</details>
+
+## Activity
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=kelvin926&show_icons=true&hide_border=true&title_color=102642&text_color=405064&icon_color=ac6332" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kelvin926&layout=compact&hide_border=true&title_color=102642&text_color=405064" alt="Top languages">
+</p>
+
+---
+
+<p align="center">
+  For the full portfolio, visit <a href="https://home.hyunseo.kr"><b>home.hyunseo.kr</b></a>.
+</p>

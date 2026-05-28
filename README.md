@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/badge/Autoware-0E77D0?style=flat-square" alt="Autoware">
   <img src="https://img.shields.io/badge/Isaac%20Lab-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Isaac Lab">
   <img src="https://img.shields.io/badge/LiDAR-4A5568?style=flat-square" alt="LiDAR">
-  <img src="https://img.shields.io/badge/Velodyne%20VLP--16-4A5568?style=flat-square" alt="Velodyne VLP-16">
   <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA">
   <img src="https://img.shields.io/badge/Reinforcement%20Learning-8E44AD?style=flat-square" alt="Reinforcement Learning">
 </p>
@@ -54,14 +53,14 @@ I am an M.S. candidate in Mobility Science and Engineering at Korea University a
       <sub>Isaac Lab, RSL-RL, Unitree Go2W, OpenArm</sub>
     </td>
     <td width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/projects/cebo_environment_single.jpg" alt="CEBO stair-climbing wheel simulation">
+      <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/projects/cebo_stair_climbing_robot_design.jpg" alt="CEBO stair-climbing wheel simulation">
       <h3>CEBO Wheel Design</h3>
       <p><b>Advanced Engineering Informatics minor revision</b></p>
       <p>Clustering-enhanced Bayesian optimization for T-pedal wheel design of a stair-climbing robot.</p>
       <sub>Bayesian optimization, CoppeliaSim, Python</sub>
     </td>
     <td width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/projects/lift_shelf_single.jpg" alt="Lift-equipped mobile manipulator shelf transfer">
+      <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/projects/adaptive_suspension_inventory_robot.png" alt="Lift-equipped mobile manipulator shelf transfer">
       <h3>Shelf Transfer Platform</h3>
       <p><b>IEEE/ASME AIM 2026 accepted</b></p>
       <p>Lift-equipped mobile manipulator platform for shelf transfer in multi-level rack environments.</p>

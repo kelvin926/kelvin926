@@ -231,25 +231,19 @@ This direction grew from my KALO, shelf-transfer mobile-manipulation, and AMR in
 
 ---
 
-## Public Repository Map
-
-| Repository                                                                                | Role in portfolio                                                                              | Main keywords                                     |
-| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------- |
-| [`leg-loco-isaac-lab`](https://github.com/kelvin926/leg-loco-isaac-lab)                   | Isaac Lab/RSL-RL workspace for Go2W–OpenArm loco-manipulation and KALO-style experiments       | Isaac Lab, RSL-RL, PPO, Go2W, OpenArm             |
-| [`Frbot_Lift`](https://github.com/kelvin926/Frbot_Lift)                                   | Chassis-leveling and stability-evaluation setup for a lift-equipped inventory-inspection robot | Isaac Lab, chassis leveling, stability evaluation |
-| [`pick-and-place`](https://github.com/kelvin926/pick-and-place)                           | Prototype workspace for Go2W–OpenArm pick-and-place and mobile-manipulation experiments        | Go2W, OpenArm, Isaac Sim, manipulation            |
-| [`Harim_AMR`](https://github.com/kelvin926/Harim_AMR)                                     | Isaac Sim logistics AMR demo with lift-based pallet transport and robot-arm palletizing scenes | Isaac Sim, AMR, logistics, palletizing            |
-| [`lidar_human_detection`](https://github.com/kelvin926/lidar_human_detection)             | Archived ROS2 prototype for LiDAR-only human detection in indoor AMR experiments               | ROS2, LiDAR, DBSCAN, tracking                     |
-| [`FieldRobot_Project_Semester`](https://github.com/kelvin926/FieldRobot_Project_Semester) | Archived on-campus AMR and autonomous-vehicle project semester work                            | AMR, Autoware, field robot integration            |
-
----
-
 <details>
-<summary><b>Additional programming experience</b></summary>
+<summary><b>Public repository map</b></summary>
 
 <br>
 
-TypeScript, C#, C, MATLAB, Jupyter, HTML/CSS, Django, JavaScript, Arduino, Raspberry Pi
+| Repository | Role in portfolio | Main keywords |
+| --- | --- | --- |
+| [`leg-loco-isaac-lab`](https://github.com/kelvin926/leg-loco-isaac-lab) | Isaac Lab/RSL-RL workspace for Go2W–OpenArm loco-manipulation and KALO-style experiments | Isaac Lab, RSL-RL, PPO, Go2W, OpenArm |
+| [`Frbot_Lift`](https://github.com/kelvin926/Frbot_Lift) | Chassis-leveling and stability-evaluation setup for a lift-equipped inventory-inspection robot | Isaac Lab, chassis leveling, stability evaluation |
+| [`pick-and-place`](https://github.com/kelvin926/pick-and-place) | Prototype workspace for Go2W–OpenArm pick-and-place and mobile-manipulation experiments | Go2W, OpenArm, Isaac Sim, manipulation |
+| [`Harim_AMR`](https://github.com/kelvin926/Harim_AMR) | Isaac Sim logistics AMR demo with lift-based pallet transport and robot-arm palletizing scenes | Isaac Sim, AMR, logistics, palletizing |
+| [`lidar_human_detection`](https://github.com/kelvin926/lidar_human_detection) | Archived ROS2 prototype for LiDAR-only human detection in indoor AMR experiments | ROS2, LiDAR, DBSCAN, tracking |
+| [`FieldRobot_Project_Semester`](https://github.com/kelvin926/FieldRobot_Project_Semester) | Archived on-campus AMR and autonomous-vehicle project semester work | AMR, Autoware, field robot integration |
 
 </details>
 

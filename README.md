@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=235&color=0:102642,50:2d628f,100:ac6332&text=Hyunseo%20Jang&fontColor=ffffff&fontSize=52&animation=fadeIn&fontAlignY=37&desc=Robotics%20Software%20Engineer%20%7C%20Field%20Robot%20Lab%20%7C%20Korea%20University&descAlignY=58&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving\&height=210\&color=0:102642,50:2d628f,100\:ac6332\&text=Hyunseo%20Jang\&fontColor=ffffff\&fontSize=52\&animation=fadeIn\&fontAlignY=38\&desc=Robot%20Learning%20%C2%B7%20Mobile%20Manipulation%20%C2%B7%20AMR%20Integration\&descAlignY=59\&descSize=16)
 
-<h3 align="center">Simulation-first robot design, learning-based control, and field robot integration</h3>
+<h3 align="center">Simulation-based robot learning and control for mobile robotic systems</h3>
 
 <p align="center">
   <a href="https://home.hyunseo.kr"><img src="https://img.shields.io/badge/Portfolio-home.hyunseo.kr-2d628f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
@@ -10,169 +10,248 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Isaac%20Lab-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Isaac Lab">
+  <img src="https://img.shields.io/badge/RSL--RL-8E44AD?style=flat-square" alt="RSL-RL">
+  <img src="https://img.shields.io/badge/PPO-8E44AD?style=flat-square" alt="PPO">
   <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS2">
   <img src="https://img.shields.io/badge/Autoware-0E77D0?style=flat-square" alt="Autoware">
-  <img src="https://img.shields.io/badge/Isaac%20Lab-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Isaac Lab">
   <img src="https://img.shields.io/badge/LiDAR-4A5568?style=flat-square" alt="LiDAR">
-  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA">
-  <img src="https://img.shields.io/badge/Reinforcement%20Learning-8E44AD?style=flat-square" alt="Reinforcement Learning">
+  <img src="https://img.shields.io/badge/Mobile%20Manipulation-ac6332?style=flat-square" alt="Mobile Manipulation">
 </p>
 
 ---
 
 ## About
 
-I am an M.S. candidate in Mobility Science and Engineering at Korea University and a researcher at the Field Robot Lab. I build and validate robot systems across simulation, perception, control, and field integration.
+I am an M.S. student in Mobility Science and Engineering at Korea University and a member of the Field Robot Lab.
+
+My research focuses on **simulation-based robot learning and control for mobile robotic systems**, with an emphasis on **mobile manipulation**, **wheeled-legged loco-manipulation**, and **stability-aware evaluation**.
+
+Recent projects include Isaac Lab/RSL-RL policy training for KALO and shelf-transfer mobile manipulation, ROS/Autoware-based AMR integration, and CEBO-based simulation evaluation-loop automation.
+
+---
+
+## Research Focus
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <b>Research Topics</b><br>
-      Wheeled-legged robots, mobile manipulation, AMR systems, field robot integration
+    <td width="25%" valign="top">
+      <b>Mobile Manipulation</b><br><br>
+      Shelf-transfer tasks<br>
+      Dynamic carrying control<br>
+      Go2W–OpenArm experiments
     </td>
-    <td width="33%" valign="top">
-      <b>Methods</b><br>
-      Simulation-driven validation, reinforcement learning, Bayesian optimization, LiDAR perception
+    <td width="25%" valign="top">
+      <b>Robot Learning</b><br><br>
+      Isaac Lab / Isaac Sim<br>
+      RSL-RL / PPO<br>
+      MDP and reward design
     </td>
-    <td width="33%" valign="top">
-      <b>Platforms</b><br>
-      Isaac Sim/Lab, ROS2 Humble, Autoware, Unitree Go2W, OpenArm, Ranger Mini v2, indoor AMR platforms
+    <td width="25%" valign="top">
+      <b>Stability-Aware Evaluation</b><br><br>
+      Carrying stability<br>
+      Chassis leveling<br>
+      Pitch-stability metrics
+    </td>
+    <td width="25%" valign="top">
+      <b>AMR Integration</b><br><br>
+      ROS2 / ROS<br>
+      Autoware<br>
+      LiDAR detection and tracking
     </td>
   </tr>
 </table>
+
+---
+
+## Current Research Direction
+
+I am interested in **object-conditioned robot learning and control for mobile manipulation**, especially how mobile manipulators can improve carrying mobility while maintaining object-dependent safety margins.
+
+This direction grew from my KALO, shelf-transfer mobile-manipulation, and AMR integration projects, where I worked on policy training, task formulation, and stability-oriented evaluation.
+
+---
 
 ## Featured Work
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/projects/kalo_launch_single.jpg" alt="KALO wheeled-legged robot launch simulation">
+      <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/kalo_arm_swing_proposed.gif" alt="KALO arm-swing launch assistance on a Go2W-OpenArm platform" width="100%">
       <h3>KALO Loco-Manipulation</h3>
-      <p><b>IEEE/ASME AIM 2026 accepted</b></p>
-      <p>Kangaroo-inspired arm-swing launch concept for a Unitree Go2W-OpenArm wheeled-legged platform.</p>
-      <sub>Isaac Lab, RSL-RL, Unitree Go2W, OpenArm</sub>
+      <p><b>Accepted to IEEE/ASME AIM 2026</b></p>
+      <p>
+        Simulation-based study on constrained arm motion for early-launch behavior in a Go2W–OpenArm wheeled-legged platform.
+      </p>
+      <p>
+        <b>Role:</b> launch-assist concept, Go2W–OpenArm setup, evaluation metrics, and Isaac Lab/RSL-RL experiments.
+      </p>
+      <p>
+        <b>Keywords:</b><br>
+        Isaac Lab · RSL-RL · PPO · Go2W · OpenArm
+      </p>
     </td>
     <td width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/projects/cebo_stair_climbing_robot_design.jpg" alt="CEBO stair-climbing wheel simulation">
+      <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/lift_mobile_manipulator_platform.gif" alt="Lift-equipped mobile manipulator platform moving in a rack environment" width="100%">
+      <h3>Shelf-Transfer Mobile Manipulator</h3>
+      <p><b>Accepted to IEEE/ASME AIM 2026</b></p>
+      <p>
+        Lift-equipped mobile manipulator platform for shelf transfer in multi-level rack environments, with an Isaac Lab PPO task formulation.
+      </p>
+      <p>
+        <b>Role:</b> platform design, 9-D action / 41-D observation PPO environment, and shelf-transfer experiment analysis.
+      </p>
+      <p>
+        <b>Keywords:</b><br>
+        Mobile manipulation · Isaac Lab · PPO · Task formulation
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/cebo_stair_climbing_demo.gif" alt="CoppeliaSim stair-climbing wheel-design evaluation loop for CEBO" width="100%">
       <h3>CEBO Wheel Design</h3>
-      <p><b>Advanced Engineering Informatics minor revision</b></p>
-      <p>Clustering-enhanced Bayesian optimization for T-pedal wheel design of a stair-climbing robot.</p>
-      <sub>Bayesian optimization, CoppeliaSim, Python</sub>
-    </td>
-    <td width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/projects/adaptive_suspension_inventory_robot.png" alt="Lift-equipped mobile manipulator shelf transfer">
-      <h3>Shelf Transfer Platform</h3>
-      <p><b>IEEE/ASME AIM 2026 accepted</b></p>
-      <p>Lift-equipped mobile manipulator platform for shelf transfer in multi-level rack environments.</p>
-      <sub>Isaac Lab, reinforcement learning, platform design</sub>
+      <p><b>Revised manuscript resubmitted after minor revision</b></p>
+      <p>
+        Simulation-based evaluation-loop automation and Bayesian optimization for T-pedal wheel design of a stair-climbing robot.
+      </p>
+      <p>
+        <b>Role:</b> T-pedal wheel search-space design, CEBO optimization experiments, and CoppeliaSim evaluation-loop automation.
+      </p>
+      <p>
+        <b>Keywords:</b><br>
+        Bayesian optimization · CoppeliaSim · Stability evaluation
+      </p>
     </td>
   </tr>
 </table>
+
+---
+
+## Additional Robotics Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/keti_velocity_tracking_training.gif" alt="Isaac Lab velocity-tracking training scene for the KETI 20-DOF wheeled-legged AMR" width="100%">
+      <h3>KETI 20-DOF Wheeled-Legged AMR</h3>
+      <p>
+        Isaac Lab training setup for rough-terrain velocity tracking and chassis-leveling behavior of a 20-DOF wheeled-legged AMR project associated with KETI.
+      </p>
+      <sub>Isaac Lab · MDP/reward design · Terrain curriculum · PPO training</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/inventory_adaptive_suspension_demo.gif" alt="Inventory-inspection robot adaptive suspension stabilization comparison" width="100%">
+      <h3>Inventory-Inspection Robot Adaptive Suspension</h3>
+      <p>
+        Chassis-leveling evaluation setup for a 10 m-class inventory-inspection robot during full-lift driving.
+      </p>
+      <sub>Stability evaluation · Chassis leveling · Isaac Lab · Full-lift driving</sub>
+    </td>
+  </tr>
+</table>
+
+---
 
 ## Research Output
 
-| Year | Status | Work |
-| --- | --- | --- |
-| 2026 | Accepted | **KALO: Kangaroo-LocoManipulation for Early Launch Acceleration in a Wheel-Legged Robot**, IEEE/ASME AIM |
-| 2026 | Accepted | **A Lift-Equipped Mobile Manipulator Platform for Shelf Transfer in Multi-Level Rack Environments**, IEEE/ASME AIM |
-| 2026 | Minor revision | **Clustering-enhanced Bayesian optimization (CEBO): A case study on T-pedal wheel design of a stair-climbing robot**, Advanced Engineering Informatics |
-| 2025 | Published | **Efficient Graph-Based Multi-Story Path Planning with Optimized Elevator Selection for Indoor Delivery Robots**, Electronics. [DOI](https://doi.org/10.3390/electronics14050982) |
-| 2025 | Published | **Time-Interval-Based Collision Detection for 4WIS Mobile Robots in Human-Shared Indoor Environments**, Sensors. [DOI](https://doi.org/10.3390/s25030890) |
+| Year | Status                         | Work                                                                                                                                                                              |
+| ---- | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2026 | Accepted                       | **KALO: Kangaroo-LocoManipulation for Early Launch Acceleration in a Wheel-Legged Robot**, IEEE/ASME AIM                                                                          |
+| 2026 | Accepted                       | **A Lift-Equipped Mobile Manipulator Platform for Shelf Transfer in Multi-Level Rack Environments**, IEEE/ASME AIM                                                                |
+| 2026 | Accepted                       | **Design and Implementation of a Local Delivery Robot System: A Reinforcement Learning Approach**, IEEE CASE                                                                      |
+| 2026 | Revised manuscript resubmitted | **Clustering-enhanced Bayesian optimization (CEBO): A case study on T-pedal wheel design of a stair-climbing robot**, Advanced Engineering Informatics                            |
+| 2025 | Published                      | **Efficient Graph-Based Multi-Story Path Planning with Optimized Elevator Selection for Indoor Delivery Robots**, Electronics. [DOI](https://doi.org/10.3390/electronics14050982) |
+| 2025 | Published                      | **Time-Interval-Based Collision Detection for 4WIS Mobile Robots in Human-Shared Indoor Environments**, Sensors. [DOI](https://doi.org/10.3390/s25030890)                         |
 
-## Conference Presentations
+<details>
+<summary><b>Selected conference presentations</b></summary>
 
-| Year | Venue | Presentation |
-| --- | --- | --- |
-| 2025 | IEMEK Fall Conference | **Study on Deriving a TDP for Autonomous Road-Sweeping Vehicles** |
-| 2024 | IEEE ICCE-Asia | **Human Trajectory Prediction Algorithm** |
-| 2024 | KICS Summer Conference | **A Study on a DQN Reinforcement Learning-Based Optimal Loading Algorithm for Hub Logistics Centers in Fulfillment and Last-Mile Delivery** |
-| 2024 | IEMEK Spring Conference | **A Study on Fail-Safety of Autonomous Road-Sweeping Vehicles** |
-| 2024 | KSII Spring Conference | **PointCloud-Based Object Detection Method for Safe Autonomous Navigation of Robots in Narrow Indoor Environments** |
-| 2023 | KICS Fall Conference | **A Study on Lightweight LiDAR Perception Modules for Durability and Power Efficiency in Embedded Systems** |
-| 2023 | ISIPS / MASR 2023 | **Optimal Logistics Distribution Algorithm for Autonomous Delivery for Local Logistics Hub System** |
+<br>
 
-## Toolbox
+| Year | Venue                   | Presentation                                                                                   |
+| ---- | ----------------------- | ---------------------------------------------------------------------------------------------- |
+| 2025 | IEMEK Fall Conference   | Study on Deriving a TDP for Autonomous Road-Sweeping Vehicles                                  |
+| 2024 | IEEE ICCE-Asia          | Human Trajectory Prediction Algorithm                                                          |
+| 2024 | KICS Summer Conference  | DQN Reinforcement Learning-Based Optimal Loading Algorithm for Hub Logistics Centers           |
+| 2024 | IEMEK Spring Conference | Fail-Safety Study for Autonomous Road-Sweeping Vehicles                                        |
+| 2024 | KSII Spring Conference  | PointCloud-Based Object Detection for Safe Autonomous Navigation in Narrow Indoor Environments |
+| 2023 | KICS Fall Conference    | Lightweight LiDAR Perception Modules for Durability and Power Efficiency                       |
+| 2023 | ISIPS / MASR 2023       | Optimal Logistics Distribution Algorithm for Autonomous Delivery in Local Hub Systems          |
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Robot Software and Integration</b><br><br>
-      <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS">
-      <img src="https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS2">
-      <img src="https://img.shields.io/badge/ROS2%20Humble-22314E?style=flat-square&logo=ros&logoColor=white" alt="ROS2 Humble">
-      <img src="https://img.shields.io/badge/Autoware-0E77D0?style=flat-square" alt="Autoware">
-      <img src="https://img.shields.io/badge/CAN-4A5568?style=flat-square" alt="CAN">
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++">
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
-    </td>
-    <td width="50%" valign="top">
-      <b>Simulation and Learning</b><br><br>
-      <img src="https://img.shields.io/badge/Isaac%20Lab-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Isaac Lab">
-      <img src="https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="Isaac Sim">
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
-      <img src="https://img.shields.io/badge/RSL--RL-8E44AD?style=flat-square" alt="RSL-RL">
-      <img src="https://img.shields.io/badge/Gymnasium-0081A5?style=flat-square" alt="Gymnasium">
-      <img src="https://img.shields.io/badge/Bayesian%20Optimization-ac6332?style=flat-square" alt="Bayesian Optimization">
-      <img src="https://img.shields.io/badge/MORAI-0F172A?style=flat-square" alt="MORAI">
-      <img src="https://img.shields.io/badge/CoppeliaSim-0B3D91?style=flat-square" alt="CoppeliaSim">
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <b>Perception and Navigation</b><br><br>
-      <img src="https://img.shields.io/badge/LiDAR-4A5568?style=flat-square" alt="LiDAR">
-      <img src="https://img.shields.io/badge/Point%20Cloud-4A5568?style=flat-square" alt="Point Cloud">
-      <img src="https://img.shields.io/badge/Velodyne%20VLP--16-4A5568?style=flat-square" alt="Velodyne VLP-16">
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
-      <img src="https://img.shields.io/badge/Open3D-0A7CC2?style=flat-square" alt="Open3D">
-      <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black" alt="YOLO">
-      <img src="https://img.shields.io/badge/DBSCAN-4A5568?style=flat-square" alt="DBSCAN">
-      <img src="https://img.shields.io/badge/Kalman%20Filter-4A5568?style=flat-square" alt="Kalman Filter">
-      <img src="https://img.shields.io/badge/SemanticKITTI-4A5568?style=flat-square" alt="SemanticKITTI">
-      <img src="https://img.shields.io/badge/Lanelet2-4A5568?style=flat-square&logo=openstreetmap&logoColor=white" alt="Lanelet2">
-      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
-    </td>
-    <td width="50%" valign="top">
-      <b>Engineering and Validation</b><br><br>
-      <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA">
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-      <img src="https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white" alt="CMake">
-      <img src="https://img.shields.io/badge/Makefile-064F8C?style=flat-square" alt="Makefile">
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
-      <img src="https://img.shields.io/badge/Ansys-FFB71B?style=flat-square" alt="Ansys">
-      <img src="https://img.shields.io/badge/CAD-4A5568?style=flat-square" alt="CAD">
-    </td>
-  </tr>
-</table>
+</details>
 
-## Additional Experience
+---
+
+## Technical Skills
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b>Public repo languages</b><br><br>
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#">
-      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C">
-      <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square" alt="MATLAB">
-      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter">
-      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML">
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS">
+      <b>Robot Learning / Simulation</b><br><br>
+      <code>Isaac Lab</code>
+      <code>Isaac Sim</code>
+      <code>RSL-RL</code>
+      <code>PyTorch</code>
+      <code>PPO</code>
+      <code>MDP formulation</code>
+      <code>Reward shaping</code>
+      <code>Curriculum design</code>
+      <code>Policy evaluation</code>
     </td>
     <td width="50%" valign="top">
-      <b>Web, security, and embedded</b><br><br>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django">
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-      <img src="https://img.shields.io/badge/OpenSSL-721412?style=flat-square&logo=openssl&logoColor=white" alt="OpenSSL">
-      <img src="https://img.shields.io/badge/AES-6E56CF?style=flat-square" alt="AES">
-      <img src="https://img.shields.io/badge/ChaCha20-6E56CF?style=flat-square" alt="ChaCha20">
-      <img src="https://img.shields.io/badge/TLS-6E56CF?style=flat-square&logo=letsencrypt&logoColor=white" alt="TLS">
-      <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino">
-      <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+      <b>Robot Software / Integration</b><br><br>
+      <code>ROS2</code>
+      <code>ROS</code>
+      <code>Autoware</code>
+      <code>Python</code>
+      <code>C++</code>
+      <code>Linux</code>
+      <code>CAN</code>
+      <code>Git</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Perception / Navigation</b><br><br>
+      <code>LiDAR mapping</code>
+      <code>Object detection/tracking</code>
+      <code>DBSCAN</code>
+      <code>Kalman filtering</code>
+      <code>ROS/Autoware perception integration</code>
+    </td>
+    <td width="50%" valign="top">
+      <b>Design / Optimization</b><br><br>
+      <code>Bayesian optimization</code>
+      <code>CoppeliaSim</code>
+      <code>CAD</code>
+      <code>Ansys</code>
+      <code>Hardware feasibility testing</code>
     </td>
   </tr>
 </table>
+
+---
+
+## Public Repository Map
+
+| Repository                                                                                | Role in portfolio                                                                              | Main keywords                                     |
+| ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------- |
+| [`leg-loco-isaac-lab`](https://github.com/kelvin926/leg-loco-isaac-lab)                   | Isaac Lab/RSL-RL workspace for Go2W–OpenArm loco-manipulation and KALO-style experiments       | Isaac Lab, RSL-RL, PPO, Go2W, OpenArm             |
+| [`Frbot_Lift`](https://github.com/kelvin926/Frbot_Lift)                                   | Chassis-leveling and stability-evaluation setup for a lift-equipped inventory-inspection robot | Isaac Lab, chassis leveling, stability evaluation |
+| [`pick-and-place`](https://github.com/kelvin926/pick-and-place)                           | Prototype workspace for Go2W–OpenArm pick-and-place and mobile-manipulation experiments        | Go2W, OpenArm, Isaac Sim, manipulation            |
+| [`Harim_AMR`](https://github.com/kelvin926/Harim_AMR)                                     | Isaac Sim logistics AMR demo with lift-based pallet transport and robot-arm palletizing scenes | Isaac Sim, AMR, logistics, palletizing            |
+| [`lidar_human_detection`](https://github.com/kelvin926/lidar_human_detection)             | Archived ROS2 prototype for LiDAR-only human detection in indoor AMR experiments               | ROS2, LiDAR, DBSCAN, tracking                     |
+| [`FieldRobot_Project_Semester`](https://github.com/kelvin926/FieldRobot_Project_Semester) | Archived on-campus AMR and autonomous-vehicle project semester work                            | AMR, Autoware, field robot integration            |
+
+---
+
+<details>
+<summary><b>Additional programming experience</b></summary>
+
+<br>
+
+TypeScript, C#, C, MATLAB, Jupyter, HTML/CSS, Django, JavaScript, Arduino, Raspberry Pi
+
+</details>
 
 ---
 

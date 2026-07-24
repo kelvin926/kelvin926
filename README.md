@@ -23,7 +23,7 @@
 
 ## About
 
-I am an M.S. student in Mobility Science and Engineering at Korea University and a research intern at AVE Lab.
+I am an M.S. student in Mobility Science and Engineering at Korea University and a research intern at AVE Lab, KAIST.
 
 My current research focuses on **autonomous driving systems and robot perception**, with an emphasis on **LiDAR-based environmental understanding**, **detection and tracking**, and **robust perception-to-planning integration**.
 

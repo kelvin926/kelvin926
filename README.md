@@ -77,7 +77,7 @@ This direction builds on my ROS/Autoware integration, LiDAR perception, and lear
 <table>
   <tr>
     <td width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/kalo_arm_swing_proposed.gif" alt="KALO arm-swing launch assistance on a Go2W-OpenArm platform" width="100%">
+      <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/kalo_arm_swing_proposed.webp" alt="KALO arm-swing launch assistance on a Go2W-OpenArm platform" width="100%">
       <h3>KALO Loco-Manipulation</h3>
       <p><b>Accepted to IEEE/ASME AIM 2026</b></p>
       <p>
@@ -92,7 +92,7 @@ This direction builds on my ROS/Autoware integration, LiDAR perception, and lear
       </p>
     </td>
     <td width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/lift_mobile_manipulator_platform.gif" alt="Lift-equipped mobile manipulator platform moving in a rack environment" width="100%">
+      <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/lift_mobile_manipulator_platform.webp" alt="Lift-equipped mobile manipulator platform moving in a rack environment" width="100%">
       <h3>Shelf-Transfer Mobile Manipulator</h3>
       <p><b>Accepted to IEEE/ASME AIM 2026</b></p>
       <p>
@@ -107,7 +107,7 @@ This direction builds on my ROS/Autoware integration, LiDAR perception, and lear
       </p>
     </td>
     <td width="33%" valign="top">
-      <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/cebo_stair_climbing_demo.gif" alt="CoppeliaSim stair-climbing wheel-design evaluation loop for CEBO" width="100%">
+      <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/cebo_stair_climbing_demo.webp" alt="CoppeliaSim stair-climbing wheel-design evaluation loop for CEBO" width="100%">
       <h3>CEBO Wheel Design</h3>
       <p><b>Accepted in Advanced Engineering Informatics · in production</b></p>
       <p>
@@ -131,7 +131,7 @@ This direction builds on my ROS/Autoware integration, LiDAR perception, and lear
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/keti_velocity_tracking_training.gif" alt="Isaac Lab velocity-tracking training scene for the KETI 20-DOF wheeled-legged AMR" width="100%">
+      <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/keti_velocity_tracking_training.webp" alt="Isaac Lab velocity-tracking training scene for the KETI 20-DOF wheeled-legged AMR" width="100%">
       <h3>KETI 20-DOF Wheeled-Legged AMR</h3>
       <p>
         Isaac Lab training setup for rough-terrain velocity tracking and chassis-leveling behavior of a 20-DOF wheeled-legged AMR project associated with KETI.
@@ -139,7 +139,7 @@ This direction builds on my ROS/Autoware integration, LiDAR perception, and lear
       <sub>Isaac Lab · MDP/reward design · Terrain curriculum · PPO training</sub>
     </td>
     <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/inventory_adaptive_suspension_demo.gif" alt="Inventory-inspection robot adaptive suspension stabilization comparison" width="100%">
+      <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/inventory_adaptive_suspension_demo.webp" alt="Inventory-inspection robot adaptive suspension stabilization comparison" width="100%">
       <h3>Inventory-Inspection Robot Adaptive Suspension</h3>
       <p>
         Chassis-leveling evaluation setup for a 10 m-class inventory-inspection robot during full-lift driving.

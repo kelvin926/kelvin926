@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving\&height=210\&color=0:102642,50:2d628f,100\:ac6332\&text=Hyunseo%20Jang\&fontColor=ffffff\&fontSize=52\&animation=fadeIn\&fontAlignY=38\&desc=Robot%20Learning%20%C2%B7%20Mobile%20Manipulation%20%C2%B7%20AMR%20Integration\&descAlignY=59\&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving\&height=210\&color=0:102642,50:2d628f,100\:ac6332\&text=Hyunseo%20Jang\&fontColor=ffffff\&fontSize=52\&animation=fadeIn\&fontAlignY=38\&desc=Autonomous%20Driving%20%C2%B7%20Robot%20Perception%20%C2%B7%20Robot%20Learning\&descAlignY=59\&descSize=16)
 
-<h3 align="center">Simulation-based robot learning and control for mobile robotic systems</h3>
+<h3 align="center">Autonomous driving, robot perception, and learning-based robotics</h3>
 
 <p align="center">
   <a href="https://home.hyunseo.kr"><img src="https://img.shields.io/badge/Portfolio-home.hyunseo.kr-2d628f?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
@@ -23,11 +23,11 @@
 
 ## About
 
-I am an M.S. student in Mobility Science and Engineering at Korea University and a member of the Field Robot Lab.
+I am an M.S. student in Mobility Science and Engineering at Korea University and a research intern at AVE Lab.
 
-My research focuses on **simulation-based robot learning and control for mobile robotic systems**, with an emphasis on **mobile manipulation**, **wheeled-legged loco-manipulation**, and **stability-aware evaluation**.
+My current research focuses on **autonomous driving systems and robot perception**, with an emphasis on **LiDAR-based environmental understanding**, **detection and tracking**, and **robust perception-to-planning integration**.
 
-Recent projects include Isaac Lab/RSL-RL policy training for KALO and shelf-transfer mobile manipulation, ROS/Autoware-based AMR integration, and CEBO-based simulation evaluation-loop automation.
+My previous work includes ROS/Autoware-based mobile-robot integration, Isaac Lab/RSL-RL policy learning, and CEBO-based simulation evaluation-loop automation.
 
 ---
 
@@ -36,10 +36,16 @@ Recent projects include Isaac Lab/RSL-RL policy training for KALO and shelf-tran
 <table>
   <tr>
     <td width="25%" valign="top">
-      <b>Mobile Manipulation</b><br><br>
-      Shelf-transfer tasks<br>
-      Dynamic carrying control<br>
-      Go2W–OpenArm experiments
+      <b>Autonomous Driving</b><br><br>
+      ROS2 / Autoware<br>
+      Map-based driving<br>
+      Planning and control
+    </td>
+    <td width="25%" valign="top">
+      <b>Robot Perception</b><br><br>
+      LiDAR mapping<br>
+      Detection and tracking<br>
+      Environment understanding
     </td>
     <td width="25%" valign="top">
       <b>Robot Learning</b><br><br>
@@ -48,16 +54,10 @@ Recent projects include Isaac Lab/RSL-RL policy training for KALO and shelf-tran
       MDP and reward design
     </td>
     <td width="25%" valign="top">
-      <b>Stability-Aware Evaluation</b><br><br>
-      Carrying stability<br>
-      Chassis leveling<br>
-      Pitch-stability metrics
-    </td>
-    <td width="25%" valign="top">
-      <b>AMR Integration</b><br><br>
-      ROS2 / ROS<br>
-      Autoware<br>
-      LiDAR detection and tracking
+      <b>Mobile Robotics</b><br><br>
+      AMR integration<br>
+      Simulation validation<br>
+      Safety-aware evaluation
     </td>
   </tr>
 </table>
@@ -66,9 +66,9 @@ Recent projects include Isaac Lab/RSL-RL policy training for KALO and shelf-tran
 
 ## Current Research Direction
 
-I am interested in **object-conditioned robot learning and control for mobile manipulation**, especially how mobile manipulators can improve carrying mobility while maintaining object-dependent safety margins.
+I am now focusing on **autonomous driving and mobile-robot intelligence**: building reliable systems that connect LiDAR-based perception and tracking to decision-making, planning, and control in real-world environments.
 
-This direction grew from my KALO, shelf-transfer mobile-manipulation, and AMR integration projects, where I worked on policy training, task formulation, and stability-oriented evaluation.
+This direction builds on my ROS/Autoware integration, LiDAR perception, and learning-based robotics experience, while keeping simulation and safety-oriented evaluation as a foundation for robust deployment.
 
 ---
 
@@ -109,7 +109,7 @@ This direction grew from my KALO, shelf-transfer mobile-manipulation, and AMR in
     <td width="33%" valign="top">
       <img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/cebo_stair_climbing_demo.gif" alt="CoppeliaSim stair-climbing wheel-design evaluation loop for CEBO" width="100%">
       <h3>CEBO Wheel Design</h3>
-      <p><b>Revised manuscript resubmitted after minor revision</b></p>
+      <p><b>Accepted in Advanced Engineering Informatics · in production</b></p>
       <p>
         Simulation-based evaluation-loop automation and Bayesian optimization for T-pedal wheel design of a stair-climbing robot.
       </p>
@@ -158,7 +158,7 @@ This direction grew from my KALO, shelf-transfer mobile-manipulation, and AMR in
 | 2026 | Accepted                       | **KALO: Kangaroo-LocoManipulation for Early Launch Acceleration in a Wheel-Legged Robot**, IEEE/ASME AIM                                                                          |
 | 2026 | Accepted                       | **A Lift-Equipped Mobile Manipulator Platform for Shelf Transfer in Multi-Level Rack Environments**, IEEE/ASME AIM                                                                |
 | 2026 | Accepted                       | **Design and Implementation of a Local Delivery Robot System: A Reinforcement Learning Approach**, IEEE CASE                                                                      |
-| 2026 | Revised manuscript resubmitted | **Clustering-enhanced Bayesian optimization (CEBO): A case study on T-pedal wheel design of a stair-climbing robot**, Advanced Engineering Informatics                            |
+| 2026 | Accepted (in production)       | **Clustering-enhanced Bayesian optimization (CEBO): A case study on T-pedal wheel design of a stair-climbing robot**, Advanced Engineering Informatics                            |
 | 2025 | Published                      | **Efficient Graph-Based Multi-Story Path Planning with Optimized Elevator Selection for Indoor Delivery Robots**, Electronics. [DOI](https://doi.org/10.3390/electronics14050982) |
 | 2025 | Published                      | **Time-Interval-Based Collision Detection for 4WIS Mobile Robots in Human-Shared Indoor Environments**, Sensors. [DOI](https://doi.org/10.3390/s25030890)                         |
 

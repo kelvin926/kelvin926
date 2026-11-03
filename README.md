@@ -1,18 +1,35 @@
 # Hyunseo Jang
 
-**Multimodal robot perception · Vision-language spatial understanding · Robot learning**
+<img align="right" src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/hyunseo_jang.jpg" alt="Portrait of Hyunseo Jang" width="130" height="182">
+
+**Multimodal robot perception · Generated surround views · Terrain-aware robotics**
 
 [Portfolio](https://home.hyunseo.kr/) · [Google Scholar](https://scholar.google.com/citations?user=4UTN6xYAAAAJ) · [ORCID](https://orcid.org/0009-0007-1284-4330) · [Email](mailto:hsjang@kaist.ac.kr)
 
 I am an **M.S. student at Korea University** and a **research intern at AVE Lab, KAIST**. I will join KAIST's Cho Chun Shik Graduate School of Mobility as a **Ph.D. student in March 2027**.
 
-My current research investigates camera–LiDAR scene representations and vision-language models for mobile robots. My earlier work includes autonomous mobile-robot integration, reinforcement learning, and simulation-based design optimization.
+My current research investigates generated panoramas and camera–LiDAR fusion for surround-view terrain perception and terrain-aware mobile robotics. My earlier work includes autonomous mobile-robot integration, reinforcement learning, and simulation-based design optimization.
+
+<br clear="all">
 
 ## Current research
 
-**[ROMO-S: Multimodal Spatial Understanding](https://home.hyunseo.kr/projects/romo-s/)** — I study whether generated surround views help a vision-language model understand space beyond a forward-facing camera. The study compares generated-view-assisted and bird's-eye-view representations under matched front-camera and 360-degree LiDAR inputs, including missing objects and unsupported descriptions. Model development and comparative evaluation are ongoing.
+### [ROMO-S: Surround-View Terrain Perception](https://home.hyunseo.kr/projects/romo-s/)
 
-**[ROMO-B: Robot Navigation and Integration](https://github.com/kelvin926/ROMO-B)** — Public ROS 2 Humble workspace for a mobile-robot platform: serial communication, Livox Mid-360 mapping/localization, Nav2/Autoware waypoint navigation, and operator tools. Software validation and hardware acceptance are documented separately in the repository.
+<a href="https://home.hyunseo.kr/projects/romo-s/"><img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/a88442aa072c724a2f721256101e946ee23b370b/assets/img/projects/romo_s_sensor_observations.jpg" alt="ROMO-S front-camera and LiDAR observations with a five-camera reference panorama from ShanghaiTech Mapping Robot data" width="480"></a>
+
+_Recorded sensor observations and multi-camera reference imagery; the reference panorama is not an inference input._
+
+I study whether a panorama generated from one front camera and current 360-degree LiDAR improves surrounding terrain perception. Image-space segmentation is pooled at measured LiDAR points and fused with sensor features. Terrain-sensitive driving settings are evaluated in simulation. This is master's thesis research; generated appearance is inferred context and does not establish safe traversability.
+
+### [ROMO-B: Robot Navigation and Integration](https://home.hyunseo.kr/projects/romo-b/)
+
+<a href="https://home.hyunseo.kr/projects/romo-b/"><img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/a88442aa072c724a2f721256101e946ee23b370b/assets/img/projects/romo_b_platform.jpg" alt="Physical blue ROMO-B bimanual mobile robot" width="260"></a>
+<a href="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/a88442aa072c724a2f721256101e946ee23b370b/assets/img/projects/romo_b_rviz.png"><img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/a88442aa072c724a2f721256101e946ee23b370b/assets/img/projects/romo_b_rviz.png" alt="ROMO-B RViz development screenshot showing LiDAR mapping and route layers" width="480"></a>
+
+_ROMO-B hardware photograph and RViz development screenshot. Open the map image at full size for detail._
+
+Public ROS 2 Humble workspace for a mobile-robot platform: serial communication, Livox Mid-360 mapping/localization, Nav2/Autoware waypoint navigation, and operator tools. Software validation and hardware acceptance are documented separately in the repository.
 
 ## Selected research
 
@@ -28,6 +45,10 @@ My current research investigates camera–LiDAR scene representations and vision
 
 ### [Lift-Equipped Mobile Manipulator](https://home.hyunseo.kr/projects/lift-mobile-manipulator/)
 
+<a href="https://home.hyunseo.kr/projects/lift-mobile-manipulator/"><img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/lift_mobile_manipulator_platform.webp" alt="Shelf-transfer task for the lift-equipped mobile manipulator in simulation" width="480"></a>
+
+_Simulation demo of the shelf-transfer platform._
+
 **IEEE/ASME AIM 2026 · Published**
 
 - **Contribution:** platform design, a 9-D action / 41-D observation PPO environment, and shelf-transfer evaluation.
@@ -36,10 +57,24 @@ My current research investigates camera–LiDAR scene representations and vision
 
 ### [CEBO-Based Stair-Climbing Wheel Design](https://home.hyunseo.kr/projects/cebo-stair-climbing-wheel/)
 
+<a href="https://home.hyunseo.kr/projects/cebo-stair-climbing-wheel/"><img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/cebo_physical_stair_guided.webp" alt="Physical T-pedal robot climbing stairs with manual guidance" width="480"></a>
+
+_Physical stair test with manual guidance; separate from the optimization's simulation evaluation._
+
 **Advanced Engineering Informatics 76, Part C, 105096 · November 2026** · [Paper](https://doi.org/10.1016/j.aei.2026.105096)
 
 - **Contribution:** T-pedal wheel search-space design, optimization experiments, and CoppeliaSim evaluation-loop automation.
 - **Focus:** clustering-enhanced Bayesian optimization for wheel design, with traversal-time and body-pitch evaluation.
+
+<details>
+<summary>More hardware and robotics work</summary>
+
+<a href="https://home.hyunseo.kr/projects/inventory-inspection-adaptive-suspension/"><img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/lift_integrated_platform_photo.jpg" alt="Physical inventory-inspection robot beside warehouse racks" width="180"></a>
+<a href="https://home.hyunseo.kr/projects/amr-integration/"><img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/amr_ranger_mini_platform_closeup.jpg" alt="Ranger Mini research platform with a LiDAR and camera" width="240"></a>
+
+Physical platforms for [inventory-robot stabilization](https://home.hyunseo.kr/projects/inventory-inspection-adaptive-suspension/) and [campus AMR integration](https://home.hyunseo.kr/projects/amr-integration/). Project pages separate hardware context, simulation studies, and field work.
+
+</details>
 
 ## Publications
 
@@ -69,7 +104,7 @@ These repositories include research workspaces and prototypes; their READMEs des
 
 ## Technical background
 
-- **Perception:** camera–LiDAR fusion, vision-language models, BEV representations, LiDAR mapping, object detection/tracking.
+- **Perception:** camera–LiDAR fusion, generated panoramas, semantic segmentation, terrain perception, BEV representations, LiDAR mapping, object detection/tracking.
 - **Robot learning:** Isaac Lab / Isaac Sim, RSL-RL, PyTorch, PPO, task/reward design, curriculum design, and policy evaluation.
 - **Integration:** ROS 2 / ROS, Autoware, Python, C++, Linux, CAN, and field-system validation.
 - **Optimization:** Bayesian optimization, CoppeliaSim, CAD, and simulation evaluation automation.

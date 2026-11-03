@@ -1,7 +1,5 @@
 # Hyunseo Jang
 
-<img align="right" src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/hyunseo_jang.jpg" alt="Portrait of Hyunseo Jang" width="130" height="182">
-
 **Multimodal robot perception · Vision-language spatial understanding · Robot learning**
 
 [Portfolio](https://home.hyunseo.kr/) · [Google Scholar](https://scholar.google.com/citations?user=4UTN6xYAAAAJ) · [ORCID](https://orcid.org/0009-0007-1284-4330) · [Email](mailto:hsjang@kaist.ac.kr)
@@ -9,8 +7,6 @@
 I am an **M.S. student at Korea University** and a **research intern at AVE Lab, KAIST**. I will join KAIST's Cho Chun Shik Graduate School of Mobility as a **Ph.D. student in March 2027**.
 
 My current research investigates camera–LiDAR scene representations and vision-language models for mobile robots. My earlier work includes autonomous mobile-robot integration, reinforcement learning, and simulation-based design optimization.
-
-<br clear="all">
 
 ## Current research
 

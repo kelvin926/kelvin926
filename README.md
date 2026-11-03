@@ -1,4 +1,4 @@
-![](assets/i10955129377.gif)
+<img src="assets/i10955129377.gif" alt="" width="100%">
 
 # Hyunseo Jang
 

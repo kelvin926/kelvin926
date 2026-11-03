@@ -22,28 +22,17 @@ My current research investigates camera–LiDAR scene representations and vision
 
 **IEEE/ASME AIM 2026 · Published** · [Paper](https://doi.org/10.1109/AIM65483.2026.11658017)
 
-- **Contribution:** launch-assist concept, Go2W–OpenArm setup, evaluation metrics, and Isaac Lab/RSL-RL experiments.
-- **Simulation result:** forward-velocity AUC over the first 1.5 s increased **15.1% relative to the fixed carrying-pose baseline** (0.726 → 0.835); time to 90% target speed decreased from 1.703 s to 1.067 s.
-- **Related code:** [leg-loco-isaac-lab](https://github.com/kelvin926/leg-loco-isaac-lab) contains the public experimental workspace. The complete paper-reproduction package is not publicly released.
-
 ### [Lift-Equipped Mobile Manipulator](https://home.hyunseo.kr/projects/lift-mobile-manipulator/)
 
 <a href="https://home.hyunseo.kr/projects/lift-mobile-manipulator/"><img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/lift_mobile_manipulator_platform.webp" alt="Shelf-transfer platform in Isaac Lab simulation" width="480"></a>
 
 **IEEE/ASME AIM 2026 · Published**
 
-- **Contribution:** platform design, a 9-D action / 41-D observation PPO environment, and shelf-transfer evaluation.
-- **Simulation result:** **41/50 successful trials (82%)** with ±3 cm source-object position randomization; failures included 3 grasp failures and 6 object drops.
-- [Project and evaluation details](https://home.hyunseo.kr/projects/lift-mobile-manipulator/)
-
 ### [CEBO-Based Stair-Climbing Wheel Design](https://home.hyunseo.kr/projects/cebo-stair-climbing-wheel/)
 
 <a href="https://home.hyunseo.kr/projects/cebo-stair-climbing-wheel/"><img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/cebo_physical_stair_guided.webp" alt="Physical T-pedal robot climbing stairs with manual guidance" width="480"></a>
 
 **Advanced Engineering Informatics 76, Part C, 105096 · November 2026** · [Paper](https://doi.org/10.1016/j.aei.2026.105096)
-
-- **Contribution:** T-pedal wheel search-space design, optimization experiments, and CoppeliaSim evaluation-loop automation.
-- **Focus:** clustering-enhanced Bayesian optimization for wheel design, with traversal-time and body-pitch evaluation.
 
 ## Publications
 

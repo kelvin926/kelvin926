@@ -21,19 +21,19 @@ My current research investigates camera–LiDAR scene representations and vision
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3><a href="https://home.hyunseo.kr/projects/kalo/">KALO: Kangaroo-LocoManipulation</a></h3>
+      <div><strong><a href="https://home.hyunseo.kr/projects/kalo/">KALO:<br>Kangaroo-LocoManipulation</a></strong></div>
       <a href="https://home.hyunseo.kr/projects/kalo/"><img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/kalo_arm_swing_proposed.webp" alt="Arm-motion-assisted launch on a Go2W–OpenArm platform in simulation" width="100%"></a>
-      <p><strong>IEEE/ASME AIM 2026 · Published</strong> · <a href="https://doi.org/10.1109/AIM65483.2026.11658017">Paper</a></p>
+      <div><strong>IEEE/ASME AIM 2026</strong><br>Published · <a href="https://doi.org/10.1109/AIM65483.2026.11658017">Paper</a></div>
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://home.hyunseo.kr/projects/lift-mobile-manipulator/">Lift-Equipped Mobile Manipulator</a></h3>
+      <div><strong><a href="https://home.hyunseo.kr/projects/lift-mobile-manipulator/">Lift-Equipped<br>Mobile Manipulator</a></strong></div>
       <a href="https://home.hyunseo.kr/projects/lift-mobile-manipulator/"><img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/lift_mobile_manipulator_platform.webp" alt="Shelf-transfer platform in Isaac Lab simulation" width="100%"></a>
-      <p><strong>IEEE/ASME AIM 2026 · Published</strong></p>
+      <div><strong>IEEE/ASME AIM 2026</strong><br>Published</div>
     </td>
     <td width="33%" valign="top">
-      <h3><a href="https://home.hyunseo.kr/projects/cebo-stair-climbing-wheel/">CEBO-Based Stair-Climbing Wheel Design</a></h3>
+      <div><strong><a href="https://home.hyunseo.kr/projects/cebo-stair-climbing-wheel/">CEBO-Based Stair-Climbing<br>Wheel Design</a></strong></div>
       <a href="https://home.hyunseo.kr/projects/cebo-stair-climbing-wheel/"><img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/cebo_physical_stair_guided.webp" alt="Physical T-pedal robot climbing stairs with manual guidance" width="100%"></a>
-      <p><strong>Advanced Engineering Informatics 76, Part C, 105096 · November 2026</strong> · <a href="https://doi.org/10.1016/j.aei.2026.105096">Paper</a></p>
+      <div><strong>Advanced Engineering Informatics</strong><br>76(C), 105096 · Nov. 2026 · <a href="https://doi.org/10.1016/j.aei.2026.105096">Paper</a></div>
     </td>
   </tr>
 </table>

@@ -1,5 +1,7 @@
 # Hyunseo Jang
 
+<img align="right" src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/hyunseo_jang.jpg" alt="Portrait of Hyunseo Jang" width="130" height="182">
+
 **Multimodal robot perception · Vision-language spatial understanding · Robot learning**
 
 [Portfolio](https://home.hyunseo.kr/) · [Google Scholar](https://scholar.google.com/citations?user=4UTN6xYAAAAJ) · [ORCID](https://orcid.org/0009-0007-1284-4330) · [Email](mailto:hsjang@kaist.ac.kr)
@@ -7,6 +9,8 @@
 I am an **M.S. student at Korea University** and a **research intern at AVE Lab, KAIST**. I will join KAIST's Cho Chun Shik Graduate School of Mobility as a **Ph.D. student in March 2027**.
 
 My current research investigates camera–LiDAR scene representations and vision-language models for mobile robots. My earlier work includes autonomous mobile-robot integration, reinforcement learning, and simulation-based design optimization.
+
+<br clear="all">
 
 ## Current research
 
@@ -28,6 +32,10 @@ My current research investigates camera–LiDAR scene representations and vision
 
 ### [Lift-Equipped Mobile Manipulator](https://home.hyunseo.kr/projects/lift-mobile-manipulator/)
 
+<a href="https://home.hyunseo.kr/projects/lift-mobile-manipulator/"><img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/lift_mobile_manipulator_platform.webp" alt="Shelf-transfer platform in Isaac Lab simulation" width="480"></a>
+
+_Simulation demo of the shelf-transfer platform._
+
 **IEEE/ASME AIM 2026 · Published**
 
 - **Contribution:** platform design, a 9-D action / 41-D observation PPO environment, and shelf-transfer evaluation.
@@ -35,6 +43,10 @@ My current research investigates camera–LiDAR scene representations and vision
 - [Project and evaluation details](https://home.hyunseo.kr/projects/lift-mobile-manipulator/)
 
 ### [CEBO-Based Stair-Climbing Wheel Design](https://home.hyunseo.kr/projects/cebo-stair-climbing-wheel/)
+
+<a href="https://home.hyunseo.kr/projects/cebo-stair-climbing-wheel/"><img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/cebo_physical_stair_guided.webp" alt="Physical T-pedal robot climbing stairs with manual guidance" width="480"></a>
+
+_Physical stair test with manual guidance; separate from the optimization simulation._
 
 **Advanced Engineering Informatics 76, Part C, 105096 · November 2026** · [Paper](https://doi.org/10.1016/j.aei.2026.105096)
 

@@ -30,8 +30,6 @@ My current research investigates camera–LiDAR scene representations and vision
 
 <a href="https://home.hyunseo.kr/projects/lift-mobile-manipulator/"><img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/lift_mobile_manipulator_platform.webp" alt="Shelf-transfer platform in Isaac Lab simulation" width="480"></a>
 
-_Simulation demo of the shelf-transfer platform._
-
 **IEEE/ASME AIM 2026 · Published**
 
 - **Contribution:** platform design, a 9-D action / 41-D observation PPO environment, and shelf-transfer evaluation.
@@ -41,8 +39,6 @@ _Simulation demo of the shelf-transfer platform._
 ### [CEBO-Based Stair-Climbing Wheel Design](https://home.hyunseo.kr/projects/cebo-stair-climbing-wheel/)
 
 <a href="https://home.hyunseo.kr/projects/cebo-stair-climbing-wheel/"><img src="https://raw.githubusercontent.com/kelvin926/kelvin926.github.io/main/assets/img/projects/cebo_physical_stair_guided.webp" alt="Physical T-pedal robot climbing stairs with manual guidance" width="480"></a>
-
-_Physical stair test with manual guidance; separate from the optimization simulation._
 
 **Advanced Engineering Informatics 76, Part C, 105096 · November 2026** · [Paper](https://doi.org/10.1016/j.aei.2026.105096)
 
